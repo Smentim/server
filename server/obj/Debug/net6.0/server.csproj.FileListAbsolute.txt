@@ -1,0 +1,14 @@
+C:\Users\ыыы\source\repos\server\server\bin\Debug\net6.0\server.exe
+C:\Users\ыыы\source\repos\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\ыыы\source\repos\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\ыыы\source\repos\server\server\bin\Debug\net6.0\server.dll
+C:\Users\ыыы\source\repos\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.dll
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\ref\server.dll
