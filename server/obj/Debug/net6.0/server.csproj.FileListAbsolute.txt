@@ -12,3 +12,4 @@ C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\refint\server.dll
 C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.pdb
 C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
 C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\ыыы\source\repos\server\server\obj\Debug\net6.0\server.sourcelink.json
